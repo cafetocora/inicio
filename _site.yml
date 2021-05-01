@@ -1,0 +1,21 @@
+name: "Café Tocorá"
+author: "Luisa Fernanda Naranjo, Haiver Giovanni Garcia"
+output_dir: "."
+date: "`r Sys.Date()`"
+navbar:
+  title: "Café Tocorá"
+  left:
+    - text: "Quienes somos"
+      href: index.html
+    - text: "Generalidades del café"
+      href: Generalidades.html
+    - text: "Nuestras lineas de café"
+      href: lineas.html
+    - text: "Precios"
+      href: precios.html
+    - text: "Contacto"
+      href: about.html
+output:
+  html_document:
+    theme: darkly
+    highlight: textmate

@@ -1,0 +1,39 @@
+---
+title: "Lineas"
+---
+
+```{r setup, include=FALSE}
+library(knitr)
+library(rmdformats)
+
+
+options(max.print="75")
+opts_chunk$set(echo=FALSE,
+	            cache=TRUE,
+               prompt=FALSE,
+               tidy=TRUE,
+               comment=NA,
+               message=FALSE,
+               warning=FALSE)
+opts_knit$set(width=75)
+```
+
+En café Tocorá manejamos 4 líneas de café en presentación de 250 gr
+
+### [ **Varietal**]{style="color: green"}
+
+### [ **Premium**]{style="color: blue"}
+
+### [ **Excepcional**]{style="color: orange"}
+
+### [ **Gourmet**]{style="color: redwine"}
+
+<center>
+
+```{r, out.width="50%", fig.cap= "Líneas de café", fig.align='center'}
+
+knitr::include_graphics("5.png")
+
+```
+
+</center>

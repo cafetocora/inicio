@@ -1,0 +1,83 @@
+---
+title: "Generalidades"
+---
+
+```{r setup, include=FALSE}
+library(knitr)
+library(rmdformats)
+
+
+options(max.print="75")
+opts_chunk$set(echo=FALSE,
+	            cache=TRUE,
+               prompt=FALSE,
+               tidy=TRUE,
+               comment=NA,
+               message=FALSE,
+               warning=FALSE)
+opts_knit$set(width=75)
+```
+
+### **Descripción**
+
+<div style="text-align: justify">
+
+La palabra café se deriva del árabe "kahwah" (cauá), llegando a nosotros por medio del vocablo turco "kahweh" (cavé), con diversas acepciones, según los idiomas, pero conservando su raíz. Es un arbusto de coloración verde y uno de los vegetales más conocidos en el mundo entero.
+
+Comercialmente el café se ha considerado la bebida número uno a nivel mundial. Sin embargo, se estima que cerca de un tercio de la población lo consume. 
+
+La popularidad del café se debe especialmente a su efecto vigorizante, tonificante y estimulante, como consecuencia de la cafeína contenida en este. 
+
+Es conocido que la cafeína funciona como estimulante y diurético actuando sobre el sistema nervioso central, corazón, venas, arterias y riñones. 
+
+El aporte de energía del café es de **2 Kcal** (tamaño típico). 
+
+<div/>
+
+Tabla 1.  Aportes de nutrientes del café
+
+<center>
+
+|**Sodio (Na)**|**Calcio (Ca)**|**Hierro (Fe)**|**Fósforo (P)**|**Potasio (K)**|
+| :---------:  |:-------------:| :-----------: |:-----------:  |:-------------:|  
+|1 Mg          |2 Mg           |0.1 Mg         |4 Mg           |36 Mg          |
+
+</center>
+
+<center>
+
+```{r, out.width = '100%'}
+
+knitr::include_graphics("1.png")
+
+```
+
+
+
+
+### **Taxonomía**
+
+<center>
+
+```{r, out.width= '100%'}
+library(readxl)
+library(kableExtra)
+dt <- read_xlsx("tabla_cafe.xlsx")
+kbl(dt) %>%
+kable_styling(
+   position = "center",
+   full_width = FALSE
+)
+```
+
+</center>
+
+<center>
+
+```{r, out.width = '100%'}
+
+knitr::include_graphics("2.png")
+
+```
+
+</center>
