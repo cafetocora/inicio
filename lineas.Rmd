@@ -1,5 +1,5 @@
 ---
-title: "Lineas"
+title: "Líneas"
 ---
 
 ```{r setup, include=FALSE}
@@ -26,7 +26,7 @@ En café Tocorá manejamos 4 líneas de café en presentación de 250 gr
 
 ### [ **Excepcional**]{style="color: orange"}
 
-### [ **Gourmet**]{style="color: redwine"}
+### [ **Gourmet**]{style="color: brown"}
 
 <center>
 
