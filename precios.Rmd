@@ -18,5 +18,37 @@ opts_chunk$set(echo=FALSE,
 opts_knit$set(width=75)
 ```
 
-### [ **Varietal**]{style="color: green"}
+
+
+<table border = "5" cellpadding = "5" cellspacing = "2" bordercolor ="white" align ="center">
+  <TR>
+    <td align ="center"> <H1> Nombre </H1> </td>
+    <td align ="center"> <H1> Precio </H1> </td>
+    <td align ="center"> <H1> Imagen </H1> </td>
+  </TR>
+  <TR bgcolor = "#FF6666" >
+    <TD height ="100%" width = "20%" align ="center" > <H1> [ **Gourmet**]{style="color: brown"} </H1> </TD>
+    <TD height ="100%" width = "20%" align ="center"> <H2> $16.000.00 </H2> </TD>
+    <TD height ="100%" width = "20%" align ="center"> <img src = "gourmet1.PNG" width="40%"> </TD>
+  </TR>
+  <TR bgcolor = "#66CCCC">
+    <TD align ="center"> <H2> [ **Premium**]{style="color: blue"} </H2> </TD>
+    <TD align ="center"> <H2> $20.000.00 </H2> </TD>
+    <TD align ="center">  <img src = "premium1.PNG" width="40%"> </TD>
+  </TR>
+  <TR bgcolor = "#66FF66">
+    <TD align ="center"> <H2> [ **Varietal**]{style="color: green"} </H2> </TD>
+    <TD align ="center"> <H2> $26.000.00 </H2> </TD>
+    <TD align ="center">  <img src = "varietal1.PNG" width="40%"> </TD>
+  </TR>
+  <TR bgcolor = "#FF6633">
+    <TD align ="center"> <H2> [ **Excepcional**]{style="color: orange"} </H2> </TD>
+    <TD align ="center"> <H2> $40.000.00 </H2> </TD>
+    <TD align ="center">  <img src = "exc1.PNG" width="40%"> </TD>
+  </TR>
+</table>
+
+
+
+
 
