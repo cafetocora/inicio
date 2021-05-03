@@ -1,5 +1,21 @@
 ---
-title: "About This Website"
+title: "Contactanos"
 ---
 
-More about this website.
+
+<p> 
+<img src="w.png" width = "15%" align="left"> 
+3103339721
+
+3133407809 
+</p>
+
+
+
+
+<center>
+<p> 
+<img src="i.png" width = "8%" align="left"> 
+<a> https://www.instagram.com/cafe_tocora/?hl=es-la <a/>
+</p>
+</center>

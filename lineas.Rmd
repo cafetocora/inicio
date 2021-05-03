@@ -18,15 +18,41 @@ opts_chunk$set(echo=FALSE,
 opts_knit$set(width=75)
 ```
 
+<div style="text-align: justify">
+
+<p style="font-family: verdana; font-size:18pt;">
+variedades de café
+</p>
+
+<p style="font-family: verdana; font-size:15pt;">
+Los principales tipos de café que se siembran en el mundo son el café **arábigo** (*Coffea arabica L*), el café **robusta** (*Coffea canephora*), el café **liberiano** (*Coffea liberica*) y el café **excelso* (*Coffea excelsa*)
+</p>
+
+<p style="font-family: verdana; font-size:15pt;">
+Las líneas de café Tocorá provienen de la variedad **Arábigo** el cual es nativo de las tierras altas de Etiopía, en Colombia es el cafeto común, que ha demostrado ser excelente para todos los suelos y climas cafeteros del pais. Posee dos variedades botánicas que son *Coffea arabica* variedad *arabica* y *Coffea arabica* variedad *bourbon*
+</p>
+
+<p style="font-family: verdana; font-size:15pt;">
 En café Tocorá manejamos 4 líneas de café en presentación de 250 gr
+</p>
 
-### [ **Varietal**]{style="color: green"}
+- <p style="font-family: verdana; font-size:15pt;">
+[ **Varietal**]{style="color: green"}
+</p>
 
-### [ **Premium**]{style="color: blue"}
+- <p style="font-family: verdana; font-size:15pt;">
+[ **Premium**]{style="color: blue"}
+</p>
 
-### [ **Excepcional**]{style="color: orange"}
+- <p style="font-family: verdana; font-size:15pt;">
+[ **Excepcional**]{style="color: orange"}
+</p>
 
-### [ **Gourmet**]{style="color: brown"}
+- <p style="font-family: verdana; font-size:15pt;">
+[ **Gourmet**]{style="color: brown"}
+</p>
+
+<div/>
 
 <center>
 

@@ -18,33 +18,68 @@ opts_chunk$set(echo=FALSE,
 opts_knit$set(width=75)
 ```
 
-### **Descripción**
+<p style="font-family: verdana; font-size:18pt;">Descripción </p>
 
 <div style="text-align: justify">
-
+<p style="font-family: verdana; font-size:15pt;">
 La palabra café se deriva del árabe "kahwah" (cauá), llegando a nosotros por medio del vocablo turco "kahweh" (cavé), con diversas acepciones, según los idiomas, pero conservando su raíz. Es un arbusto de coloración verde y uno de los vegetales más conocidos en el mundo entero.
+</p>
 
+<p style="font-family: verdana; font-size:15pt;">
 Comercialmente el café se ha considerado la bebida número uno a nivel mundial. Sin embargo, se estima que cerca de un tercio de la población lo consume. 
+</p>
 
+<p style="font-family: verdana; font-size:15pt;">
 La popularidad del café se debe especialmente a su efecto vigorizante, tonificante y estimulante, como consecuencia de la cafeína contenida en este. 
+</p>
 
+<p style="font-family: verdana; font-size:15pt;">
 Es conocido que la cafeína funciona como estimulante y diurético actuando sobre el sistema nervioso central, corazón, venas, arterias y riñones. 
+</p>
 
+<p style="font-family: verdana; font-size:15pt;">
 El aporte de energía del café es de **2 Kcal** (tamaño típico). 
+</p>
+
+#
+#
+#
 
 <div/>
-
+<p style="font-family: verdana; font-size:12pt;">
 Tabla 1.  Aportes de nutrientes del café
+</p>
 
-<center>
+#
+#
 
-|**Sodio (Na)**|**Calcio (Ca)**|**Hierro (Fe)**|**Fósforo (P)**|**Potasio (K)**|
-| :---------:  |:-------------:| :-----------: |:-----------:  |:-------------:|
-|1 Mg          |2 Mg           |0.1 Mg         |4 Mg           |36 Mg          |
+<table border = "3" bordercolor ="white" align ="center">
+  <TR bgcolor = "#66CCCC">
+    <td align ="center" height ="60%" width = "21%"> <H3> sodio (Na) </H3> </td>
+    <td align ="center" height ="60%" width = "21%"> <H3> Calcio (Ca) </H3> </td>
+    <td align ="center" height ="60%" width = "21%"> <H3> Hierro (Fe) </H3> </td>
+    <td align ="center" height ="60%" width = "21%"> <H3> Fósforo (P) </H3> </td>
+    <td align ="center" height ="60%" width = "21%"> <H3> Potasio (K) </H3> </td>
+  </TR>
+  <TR>
+    <td align ="center"> <H3> 1 Mg </H3> </td>
+    <td align ="center"> <H3> 2 Mg </H3> </td>
+    <td align ="center"> <H3> 0.1 Mg </H3> </td>
+    <td align ="center"> <H3> 4 Mg </H3> </td>
+    <td align ="center"> <H3> 36 Mg </H3> </td>
+  </TR>
+</table>
 
-</center>
 
-<center>
+#
+
+#
+
+#
+#
+#
+#
+#
 
 ```{r, out.width = '100%'}
 
@@ -53,9 +88,16 @@ knitr::include_graphics("1.png")
 ```
 
 
+#
+#
+#
+#
 
 
-### **Taxonomía**
+<p style="font-family: verdana; font-size:18pt;"> Taxonomía </p> 
+
+#
+#
 
 <center>
 
@@ -72,6 +114,9 @@ kable_styling(
 
 </center>
 
+#
+#
+#
 <center>
 
 ```{r, out.width = '100%'}

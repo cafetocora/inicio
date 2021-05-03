@@ -13,9 +13,13 @@ navbar:
       href: lineas.html
     - text: "Precios"
       href: precios.html
-    - text: "Contacto"
-      href: about.html
+    - text: "instagram"
+      href: https://www.instagram.com/cafe_tocora/?hl=es-la 
+    - text: "whatsapp 1"
+      href: https://wa.me/573133407809
+    - text: "whatsapp 2"
+      href: https://wa.me/573103339721
 output:
   html_document:
     theme: darkly
-    highlight: textmate
+    highlight: tango
