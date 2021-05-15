@@ -34,17 +34,17 @@ opts_knit$set(width=75)
   </TR>
   <TR bgcolor = "#66CCCC">
     <TD align ="center"> <H2> [ **Premium**]{style="color: blue"} </H2> </TD>
-    <TD align ="center"> <H2> $20.000 </H2> </TD>
+    <TD align ="center"> <H2> 250gr - $20.000 </H2> </TD>
     <TD align ="center">  <img src = "premium1.PNG" width="40%"> </TD>
   </TR>
   <TR bgcolor = "#66FF66">
     <TD align ="center"> <H2> [ **Varietal**]{style="color: green"} </H2> </TD>
-    <TD align ="center"> <H2> $26.000 </H2> </TD>
+    <TD align ="center"> <H2> 250 gr - $26.000 </H2> </TD>
     <TD align ="center">  <img src = "varietal1.PNG" width="40%"> </TD>
   </TR>
   <TR bgcolor = "#FF6633">
     <TD align ="center"> <H2> [ **Excepcional**]{style="color: orange"} </H2> </TD>
-    <TD align ="center"> <H2> $40.000 (agotado) </H2> </TD>
+    <TD align ="center"> <H2> 250 gr - $40.000 (agotado) </H2> </TD>
     <TD align ="center">  <img src = "exc1.PNG" width="40%"> </TD>
   </TR>
 </table>
