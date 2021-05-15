@@ -28,7 +28,8 @@ opts_knit$set(width=75)
   </TR>
   <TR bgcolor = "#FF6666" >
     <TD height ="100%" width = "20%" align ="center" > <H1> [ **Gourmet**]{style="color: brown"} </H1> </TD>
-    <TD height ="100%" width = "20%" align ="center"> <H2> $16.000 </H2> </TD>
+    <TD height ="100%" width = "20%" align ="center"> <H2>  250gr - $16.000
+    500gr $28.000 </H2> </TD>
     <TD height ="100%" width = "20%" align ="center"> <img src = "gourmet1.PNG" width="40%"> </TD>
   </TR>
   <TR bgcolor = "#66CCCC">
@@ -43,7 +44,7 @@ opts_knit$set(width=75)
   </TR>
   <TR bgcolor = "#FF6633">
     <TD align ="center"> <H2> [ **Excepcional**]{style="color: orange"} </H2> </TD>
-    <TD align ="center"> <H2> $40.000 </H2> </TD>
+    <TD align ="center"> <H2> $40.000 (agotado) </H2> </TD>
     <TD align ="center">  <img src = "exc1.PNG" width="40%"> </TD>
   </TR>
 </table>
